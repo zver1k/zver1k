@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">DamirMedia — Дамир Кунакбаев</title>
+<desc id="desc">Сайты, CRM и Telegram-боты. Разработка и автоматизация бизнеса.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190d2e"/><stop offset=".55" stop-color="#0b0b16"/><stop offset="1" stop-color="#09222c"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#c4a7ff"/><stop offset="1" stop-color="#7dd3df"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c4a7ff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#c4a7ff" stroke-opacity=".18"/>
+<rect x="56" y="54" width="40" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="112" y="62" font-size="16" font-weight="600" letter-spacing="4" fill="#c4b5df">DEVELOPMENT &amp; AUTOMATION</text>
+<text x="56" y="142" font-size="64" font-weight="700" letter-spacing="-2" fill="#f6f3ff">DamirMedia<tspan fill="#bca3f8">.</tspan></text>
+<text x="59" y="184" font-size="25" fill="#c7c4d3">Дамир Кунакбаев</text>
+<text x="59" y="237" font-size="24" font-weight="600" fill="#f6f3ff">Сайты · CRM · Telegram-боты</text>
+<text x="59" y="284" font-size="17" fill="#b6afc7">12+ лет в IT<tspan dx="24" fill="#665677">/</tspan><tspan dx="24">Уфа</tspan><tspan dx="24" fill="#665677">/</tspan><tspan dx="24">damirmedia.ru</tspan></text>
+</g>
+<g transform="translate(940 75)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="264" height="204" rx="20" stroke-opacity=".28"/>
+<path d="M0 42H264" stroke-opacity=".2"/>
+<circle cx="23" cy="22" r="3" fill="#c4a7ff" stroke="none"/><circle cx="38" cy="22" r="3" fill="#9c96bb" stroke="none"/><circle cx="53" cy="22" r="3" fill="#7dd3df" stroke="none"/>
+<path d="m77 89-35 31 35 31m109-62 35 31-35 31m-42-77-25 93" stroke-width="7"/>
+</g>
+</svg>
